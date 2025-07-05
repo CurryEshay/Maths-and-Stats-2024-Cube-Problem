@@ -1,0 +1,1 @@
+Pre-reqs: ttkbootstrap, customtkinter
